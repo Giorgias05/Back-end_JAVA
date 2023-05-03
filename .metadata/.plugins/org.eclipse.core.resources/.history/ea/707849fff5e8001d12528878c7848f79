@@ -1,0 +1,75 @@
+package it.epicode.be;
+
+public class Helloworld {
+
+public static void main (String[] args)
+		{
+
+		System.out.println("This is my first Epicode Java Project!");
+	
+		
+		int x= 4;
+		int y=2;
+		
+		System.out.println("Es 2.1-" + moltiplica(x,y));
+		
+		String a= "cane";
+		int b=5;
+		
+		System.out.println("Es 2.2-" + concatena(a,b));
+		}
+
+        public static int moltiplica (int x, int y)
+        {
+        	return x*y;
+        }      
+		
+		public static String concatena(String a, int b)
+		{
+			return a+b;
+			}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+		}
+}
+
+
+
+
+
+
+
+
+
+
